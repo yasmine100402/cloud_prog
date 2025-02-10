@@ -4,7 +4,7 @@ import java.time.LocalTime;
 public class HelloGitHub {
     public static void main(String[] args) {
     System.out.println("Hello, GitHub!");
-
+    //my comment sample
     LocalDate mydate = LocalDate.now();  
     LocalTime mytime = LocalTime.now();
     System.out.println("Date: "+ mydate);
